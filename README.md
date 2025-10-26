@@ -65,7 +65,7 @@
 ### 🛡️ SurakshaSaathi - Disaster Management & Training System
 [![SurakshaSaathi](https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suraksha-saathi.vercel.app)
 
-**Smart India Hackathon 2024 Project**
+**Smart India Hackathon 2025 Project**
 - 🎯 Comprehensive disaster preparedness platform with real-time alerts
 - 🏗️ Built with Next.js, TypeScript, Supabase, PostgreSQL
 - 🚨 Features: Training modules, emergency protocols, resource management
