@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-🚀 **3rd Year CSE Student @ KIIT** | Turning innovative ideas into impactful tech solutions
+🚀 **3rd Year CSSE Student @ KIIT** | Turning innovative ideas into impactful tech solutions
 
 💡 **Mission**: From disaster management systems to AI-powered health predictors, I build products that solve real-world problems and create meaningful impact.
 
