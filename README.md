@@ -63,7 +63,7 @@
 <div align="center">
 
 ### 🛡️ SurakshaSaathi - Disaster Management & Training System
-[![SurakshaSaathi](https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/bhanukumardev/SIH-SurakshaSaathi-DisasterMgmt-Training)
+[![SurakshaSaathi](https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suraksha-saathi.vercel.app)
 
 **Smart India Hackathon 2024 Project**
 - 🎯 Comprehensive disaster preparedness platform with real-time alerts
@@ -74,7 +74,7 @@
 ---
 
 ### 🏥 Health Symptom Predictor - AI-Powered Medical Assistant
-[![Health Predictor](https://img.shields.io/badge/View_Project-00897B?style=for-the-badge&logo=healthcare&logoColor=white)](https://github.com/bhanukumardev/health-symptom-predictor)
+[![Health Predictor](https://img.shields.io/badge/View_Project-00897B?style=for-the-badge&logo=healthcare&logoColor=white)](https://health-symptom-predictor-vbrf.vercel.app)
 
 **Intelligent Healthcare Solution**
 - 🤖 AI/ML-powered symptom analysis and disease prediction
@@ -104,7 +104,7 @@
 
 🥇 **Smart India Hackathon 2024** - SurakshaSaathi Project  
 💼 **Multiple Internships** - CodeAlpha, Pinnacle Labs  
-🎓 **B.Tech CSE @ KIIT** - 3rd Year Student  
+🎓 **B.Tech CSSE @ KIIT** - 3rd Year Student  
 📊 **205+ Contributions** in 2025  
 ⭐ **10+ GitHub Repositories**  
 🔗 **Active Open Source Contributor**  
