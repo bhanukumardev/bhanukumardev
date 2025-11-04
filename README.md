@@ -1,9 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bhanu%20Kumar%20Dev&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=3rd%20Year%20CSSE%20%7C%20AI/ML%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bhanu%20Kumar%20Dev&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=3rd%20Year%20CSSE%20%7C%20AI/ML%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%" />
+
+<!-- Badges: GitHub Stars and Followers -->
+![GitHub stars](https://img.shields.io/github/stars/bhanukumardev?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/bhanukumardev?style=for-the-badge)
+
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=AI%2FML%20Developer%20%F0%9F%A4%96;Full-Stack%20Engineer%20%F0%9F%9A%80;Hackathon%20Enthusiast%20%F0%9F%8F%86" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=AI%2FML%20Developer%20%F0%9F%A4%96;Full-Stack%20Engineer%20%F0%9F%9A%80;Hackathon%20Enthusiast%20%F0%9F%8F%86" />
 </p>
 
 ---
@@ -80,40 +86,50 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhanukumardev&theme=react)](https://github.com/bhanukumardev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhanukumardev&theme=react&hide_border=false)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanukumardev&show_icons=true&theme=react&hide_border=false&count_private=true&include_all_commits=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanukumardev&show_icons=true&theme=react&hide_border=false&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukumardev&layout=compact&theme=react&hide_border=false)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukumardev&layout=compact&theme=react&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhanukumardev&theme=radical&no-frame=true&row=1&column=7)](https://github.com/bhanukumardev)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhanukumardev&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Bhanu Kumar Dev's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanukumardev&theme=react-dark)](https://github.com/bhanukumardev)
+[![Bhanu Kumar Dev's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanukumardev&theme=react-dark&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+![Snake animation](https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/output/snake.svg)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 ## 🔗 Connect With Me
 
-<div align="center">
-
 ### 💬 Let's connect and collaborate! 🚀
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bhanukumardev.github.io/bhanu-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-kumar-dev-97b820313/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanukumardev)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076607474743)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarbhanu818@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhumi_bhanu_dev/)
+<div align="center">
 
-**📧 Email:** kumarbhanu818@gmail.com
+<a href="https://bhanukumardev.github.io/bhanu-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/bhanu-kumar-dev-97b820313/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/bhanukumardev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100076607474743">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="mailto:kumarbhanu818@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.instagram.com/bhumi_bhanu_dev/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 </div>
+
+**📧 Email:** [kumarbhanu818@gmail.com](mailto:kumarbhanu818@gmail.com)
 
 ---
 
@@ -132,16 +148,20 @@ Focused on:
 
 ## 🎓 Interests & Beyond
 
-- **Tech:** AI/ML, Full-Stack Development, Cloud Computing, Open Source
-- **Hobbies:** Horror Movies, Cricket, Continuous Learning
-- **Community:** Tech Community Leader, Hackathon Participant
+- • **Tech:** AI/ML, Full-Stack Development, Cloud Computing, Open Source
+- • **Hobbies:** Horror Movies, Cricket, Continuous Learning
+- • **Community:** Tech Community Leader, Hackathon Participant
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-  
-  > ⚡ Crafted with Intelligence, Powered by Passion, Driven by Purpose ⚡
-  
-  > © 2025 Bhanu Kumar Dev — Building the Future, One Line of Code at a Time 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
+
+<p align="center">
+  <strong>⚡ Crafted with Intelligence, Powered by Passion, Driven by Purpose ⚡</strong>
+</p>
+
+<p align="center">
+  <em>© 2025 Bhanu Kumar Dev — Building the Future, One Line of Code at a Time 🚀</em>
+</p>
