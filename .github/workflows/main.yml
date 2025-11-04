@@ -8,12 +8,18 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
