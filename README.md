@@ -1,81 +1,87 @@
-# ✨ Bhanu Kumar Dev — Breaking Boundaries in Tech Innovation 🚀
+<!--- Profile Banner (Add your own .gif/.svg for max visual punch!) --->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/main/assets/banner.gif" height="220" alt="Bhanu Kumar Dev Banner" />
+</p>
 
-![Banner: Bhanu Dev Universe](https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/main/assets/banner.gif)
+# 🧑‍🚀 Bhanu Kumar Dev
+**_Empowering Tech Innovation & AI Solutions_**
 
-### 👨‍💻 Transforming Ideas into Reality  
-_3rd Year CSSE @ KIIT • Hackathon Wizard • AI/ML Explorer • Open Source Advocate_
-
----
-
-## ⚡️ What Drives Me
-
-- 🚩 **Innovation First:** AI, ML & Full-Stack solutions for Real-World Impact
-- 🎯 **Hackathons Conquered:** Shortlisted Finalist & Team Lead, Smart India Hackathon, Pandora Paradox, KIIT E-Summit
-- 🌐 **Community:** Leading, mentoring, and collaborating across tech societies (UIPath, GDG, GFG)
-- 🌱 **Growth Mindset:** Solved 400+ coding problems (LeetCode, CodeChef & more)  
-- 🏆 **Open Source Spirit:** Contributor with a global footprint
+- 🎓 **3rd Year @ KIIT | CSSE | India**
+- 🧑‍💻 **AI/ML Developer | Full-Stack Engineer | Open Source Advocate**
+- 🏆 **Hackathon Shortlisted & Multiple Project Winner**
 
 ---
 
-## 🌀 My Universe: Top Projects
-
-| 🚀 Project | 🔥 Highlights |
-|------------|--------------|
-| [bhanu-portfolio](https://bhanukumardev.github.io/bhanu-portfolio/) | 3D Animated, Multi-language, Recruiter-ready CV |
-| [health-symptom-predictor](https://health-symptom-predictor.vercel.app/) | FastAPI, React, PostgreSQL, Groq LLM AI chatbot |
-| [Suraksha Saathi](https://github.com/bhanukumardev/SIH-SurakshaSaathi-DisasterMgmt-Training) | Real-Time Disaster Monitoring, Gamified Training |
-| [fraud-detection-app](https://github.com/bhanukumardev/fraud-detection-app) | ML anomaly detection, Streamlit, KIIT E-Summit Winner |
-| [food-delivery-quickbite](https://github.com/bhanukumardev/food-delivery-quickbite) | Swift UI, TypeScript, Fast delivery logic |
+## 🌟 Featured Achievements
+- 🥈 **Hackathon Finalist & Organizer Roles**
+- 🛠️ **202+ Commits in October 2025 | Active Contributor**  
+- ✨ **Pull Shark & YOLO Achievements, Open Source Highlights**
+- 🚩 **400+ Coding Problems Solved (LeetCode, CodeChef, etc.)**
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🔥 Rapid Project Highlights
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-363636?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+| 🚀 Project Name | 💡 Key Features |
+| -------------- | -------------- |
+| [bhanu-portfolio](https://bhanukumardev.github.io/bhanu-portfolio/) | 3D Animation, Multilingual CV, Interactive, Recruiter-Ready |
+| [health-symptom-predictor](https://health-symptom-predictor.vercel.app/) | AI+ML FastAPI, React, PostgreSQL, Groq LLM chatbot |
+| [Suraksha Saathi](https://github.com/bhanukumardev/SIH-SurakshaSaathi-DisasterMgmt-Training) | Disaster Monitoring, Real-Time Alerts, Gamification |
+| [fraud-detection-app](https://github.com/bhanukumardev/fraud-detection-app) | Streamlit, ML Fraud Detection, E-Summit Project |
+| [food-delivery-quickbite](https://github.com/bhanukumardev/food-delivery-quickbite) | Modern UI/UX, Fast Delivery Logic, TypeScript |
 
 ---
 
-## 🎉 Recent Wins
+## 🧩 Tech Stack & Power Skills
 
-- 🏅 **First PR & Issue Opened:** Oct 2025, multi-repo contributions
-- 🔄 **202+ Commits:** October 2025, across 12 repositories
-- 🏅 **Special Achievements:** YOLO, Pull Shark
-
----
-
-## 📈 GitHub Power Stats
-
-![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanukumardev&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhanukumardev&hide_border=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukumardev&layout=compact&theme=radical)
-
----
-
-## 🤝 Let’s Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Bhanukumardev-DC143C?style=for-the-badge)](https://bhanukumardev.github.io/bhanu-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bhanu-kumar-dev-97b820313)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/bhumi_bhanu_dev)
-[![Email](https://img.shields.io/badge/Email-kumarbhanu818@gmail.com-6BAA3E?style=for-the-badge)](mailto:kumarbhanu818@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge" />
+</p>
+- **Languages**: TypeScript, JavaScript, Python, SQL
+- **Tools**: VS Code, Supabase, Vercel, Render, Railway
 
 ---
 
-## 💡 Fun Fact
+## 📊 Impact & Activity
 
-> “I love horror movies, pushing tech boundaries, and learning from every code commit.”
+- 📰 **Latest:** 25+ commits, new repo created — [food-delivery-quickbite](https://github.com/bhanukumardev/food-delivery-quickbite)  
+- 🗓️ **Active in:** AI, ML, web apps, hackathons, tech communities
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanukumardev&show_icons=true&theme=react)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=bhanukumardev&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukumardev&layout=compact&theme=react)
 
 ---
 
+## 🤝 Connect & Collaborate
+
+<p align="center">
+  <a href="https://bhanukumardev.github.io/bhanu-portfolio/">🌐 Portfolio</a> • 
+  <a href="https://linkedin.com/in/bhanu-kumar-dev-97b820313">LinkedIn</a> • 
+  <a href="mailto:kumarbhanu818@gmail.com">Email</a> • 
+  <a href="https://instagram.com/bhumi_bhanu_dev">Instagram</a>
+</p>
+
+---
+
+## 🎬 Fun Fact & Motivation
+
+> *Horror movies buff, cricket enthusiast, always learning & leading!*
+
+---
+
+<!--- Contribution Snake Animation --->
 ![Snake animation](https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/output/snake.svg)
 
 ---
 
-### 🌠 _Made with ⚡️, ☕, and 💡 — Bhanu’s Comet Code Universe_
+<!-- Footer: Personal Universe -->
+<p align="center"><b>
+🌠 Crafted with ⚡, ☕, and 💡 — Bhanu’s Tech Universe
+</b></p>
+
