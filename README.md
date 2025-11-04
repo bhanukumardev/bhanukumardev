@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bhanu%20Kumar%20Dev&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=3rd%20Year%20CSSE%20%7C%20AI/ML%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bhanu%20Kumar%20Dev&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=3rd%20Year%20CSSE%20%7C%20AI/ML%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" 
+    width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=AI%2FML%20Developer%20%F0%9F%A4%96;Full-Stack%20Engineer%20%F0%9F%9A%80;Hackathon%20Enthusiast%20%F0%9F%8F%86" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=AI%2FML%20Developer%20%F0%9F%A4%96;Full-Stack%20Engineer%20%F0%9F%9A%80;Hackathon%20Enthusiast%20%F0%9F%8F%86" 
+  />
 </div>
 
 ---
@@ -70,7 +74,7 @@ I'm a passionate developer focused on building intelligent systems using AI/ML a
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Health Predictor](https://github.com/bhanukumardev/health-symptom-predictor)
+### 🤖 [AI Health Predictor](https://health-symptom-predictor-vbrf.vercel.app/)
 
 **Advanced ML-Powered Disease Prediction & Health Chatbot**
 
@@ -78,9 +82,8 @@ I'm a passionate developer focused on building intelligent systems using AI/ML a
 - • Real-time analysis with 95%+ accuracy
 - • Groq LLM-powered health chatbot integration
 - • Built with: Python, FastAPI, React, PostgreSQL, TensorFlow
-- • [View Repository](https://github.com/bhanukumardev/health-symptom-predictor)
 
-### 🎮 [Fraud Detection App](https://github.com/bhanukumardev/fraud-detection-app)
+### 🎮 [Fraud Detection App](https://fraud-detection-app-rxiwn9wo9sfcg3m7icga2b.streamlit.app/)
 
 **AI/ML-Based Financial Anomaly Detection System**
 
@@ -88,9 +91,8 @@ I'm a passionate developer focused on building intelligent systems using AI/ML a
 - • Streamlit-based web application
 - • Anomaly detection algorithms for transaction analysis
 - • Built with: Python, Scikit-Learn, Streamlit
-- • [View Repository](https://github.com/bhanukumardev/fraud-detection-app)
 
-### 🌐 [SIH SurakshaSaathi - Disaster Management](https://github.com/bhanukumardev/SIH-SurakshaSaathi-DisasterMgmt-Training)
+### 🌐 [SIH SurakshaSaathi - Disaster Management](https://suraksha-saathi.vercel.app/)
 
 **Real-Time Monitoring System for Disaster Management Trainings**
 
@@ -98,9 +100,8 @@ I'm a passionate developer focused on building intelligent systems using AI/ML a
 - • Scheduling, tracking, real-time analytics
 - • Real-time alerts and gamified drills
 - • Built with: TypeScript, Next.js, Node.js, MongoDB
-- • [View Repository](https://github.com/bhanukumardev/SIH-SurakshaSaathi-DisasterMgmt-Training)
 
-### 🍔 [QuickBite - Food Delivery Platform](https://github.com/bhanukumardev/food-delivery-quickbite)
+### 🍔 [QuickBite - Food Delivery Platform](https://quickbite-motion-delight.vercel.app/)
 
 **Full-Stack Food Delivery Web Application**
 
@@ -108,9 +109,8 @@ I'm a passionate developer focused on building intelligent systems using AI/ML a
 - • Real-time delivery updates
 - • Responsive UI with modern design
 - • Built with: TypeScript, React, Node.js, MongoDB
-- • [View Repository](https://github.com/bhanukumardev/food-delivery-quickbite)
 
-### 🎨 [3D Portfolio](https://github.com/bhanukumardev/bhanu-portfolio)
+### 🎨 [3D Portfolio](https://bhanukumardev.github.io/bhanu-portfolio/)
 
 **Interactive 3D Animated Portfolio Website**
 
@@ -118,27 +118,41 @@ I'm a passionate developer focused on building intelligent systems using AI/ML a
 - • Projects showcase with live links
 - • Skills and achievements visualization
 - • Built with: TypeScript, Three.js, React
-- • [Visit Portfolio](https://bhanukumardev.github.io/bhanu-portfolio/)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanukumardev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukumardev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=bhanukumardev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukumardev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" 
+    alt="Top Languages" 
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhanukumardev&theme=react" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=bhanukumardev&theme=react" 
+    alt="GitHub Streak" 
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanukumardev&theme=react-dark" alt="Bhanu Kumar Dev's GitHub Contribution Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bhanukumardev&theme=react-dark" 
+    alt="Bhanu Kumar Dev's GitHub Contribution Graph" 
+  />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img 
+    src="https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/output/github-contribution-grid-snake.svg" 
+    alt="Contribution Snake" 
+  />
 </div>
 
 ---
@@ -177,7 +191,9 @@ Focused on:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" 
+    width="100%"/>
   
   <p>⚡ Crafted with Intelligence, Powered by Passion, Driven by Purpose ⚡</p>
   
