@@ -35,6 +35,8 @@
 
 **AI-powered health prediction app** with React, FastAPI, PostgreSQL, and ML disease prediction. Features real-time symptom analysis, medicine suggestions, and a Groq LLM chatbot. Multilingual, mobile-friendly, and cloud-deployed.
 
+[Live Demo](https://health-symptom-predictor-vbrf.vercel.app/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/bhanukumardev/health-symptom-predictor)
 
 ---
@@ -92,8 +94,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanukumardev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bhanu's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukumardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanukumardev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bhanu's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukumardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
@@ -123,24 +125,14 @@
 ### 💬 Let's connect and collaborate! 🚀
 
 <div align="center">
-  <a href="https://bhanukumardev.github.io/bhanu-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/bhanu-kumar-dev-97b820313/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/bhanukumardev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100076607474743">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:kumarbhanu818@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/bhumi_bhanu_dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bhanukumardev.github.io/bhanu-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-kumar-dev-97b820313/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanukumardev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076607474743)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarbhanu818@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhumi_bhanu_dev/)
+
 </div>
 
 **📧 Email:** [kumarbhanu818@gmail.com](mailto:kumarbhanu818@gmail.com)
@@ -169,13 +161,9 @@ Focused on:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 </div>
 
-<p align="center">
-  <strong>⚡ Crafted with Intelligence, Powered by Passion, Driven by Purpose ⚡</strong>
-</p>
+**⚡ Crafted with Intelligence, Powered by Passion, Driven by Purpose ⚡**
 
-<p align="center">
-  <em>© 2025 Bhanu Kumar Dev — Building the Future, One Line of Code at a Time 🚀</em>
-</p>
+© 2025 Bhanu Kumar Dev — Building the Future, One Line of Code at a Time 🚀
