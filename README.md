@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bhanu%20Kumar%20Dev&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=3rd%20Year%20CSSE%20%7C%20AI/ML%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%" />
 
 <!-- Badges: GitHub Stars and Followers -->
@@ -31,6 +30,16 @@
 
 ---
 
+## 🎯 Featured Projects
+
+### 🍔 QuickBite – Food Delivery App
+**Modern, lightning-fast Indian food delivery app** with real-time tracking, animated UX, PWA features, and support for 5,000+ restaurants. Built with React, TypeScript, Tailwind CSS, and Framer Motion. Experience fast, beautiful, and scalable food ordering!
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-00D9FF?style=for-the-badge)](https://quickbite-motion-delight.vercel.app/) 
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/bhanukumardev/food-delivery-quickbite)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -51,34 +60,33 @@
 
 ### ⚙️ Backend Development
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🗄️ Databases & Cloud Services
+### 🗄️ Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🤖 AI/ML & Data Science
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🔧 Tools & Platforms
+### ☁️ Cloud & DevOps
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -86,15 +94,29 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhanukumardev&theme=react&hide_border=false)](https://git.io/streak-stats)
+![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanukumardev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanukumardev&show_icons=true&theme=react&hide_border=false&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukumardev&layout=compact&theme=tokyonight&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukumardev&layout=compact&theme=react&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhanukumardev&theme=tokyonight&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhanukumardev&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
-[![Bhanu Kumar Dev's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanukumardev&theme=react-dark&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bhanukumardev&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/output/snake.svg)
 
@@ -138,7 +160,6 @@
 > **"I don't just write code — I build intelligent systems that think, learn, and evolve."**
 
 Focused on:
-
 - 🤖 Developing intelligent agents with AI/ML integration
 - 🧠 Building ML-powered predictive systems
 - 🌐 Crafting immersive full-stack web experiences
