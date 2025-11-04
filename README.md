@@ -71,7 +71,7 @@
 [![Bhanu Kumar Dev's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanukumardev&theme=react-dark)](https://github.com/bhanukumardev)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
