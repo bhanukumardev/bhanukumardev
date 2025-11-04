@@ -1,14 +1,9 @@
 <div align="center">
-    <img 
-      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bhanu%20Kumar%20Dev&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=3rd%20Year%20CSSE%20%7C%20AI/ML%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" 
-      width="100%"
-    />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bhanu%20Kumar%20Dev&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=3rd%20Year%20CSSE%20%7C%20AI/ML%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%" />
 </div>
 
 <div align="center">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=AI%2FML%20Developer%20%F0%9F%A4%96;Full-Stack%20Engineer%20%F0%9F%9A%80;Hackathon%20Enthusiast%20%F0%9F%8F%86" 
-    />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=AI%2FML%20Developer%20%F0%9F%A4%96;Full-Stack%20Engineer%20%F0%9F%9A%80;Hackathon%20Enthusiast%20%F0%9F%8F%86" />
 </div>
 
 ---
@@ -69,7 +64,7 @@
 
 <div align="center">
 
-![GitHub Streak Stats - Current and longest streak](https://github-readme-streak-stats.herokuapp.com?user=bhanukumardev&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhanukumardev&theme=react)
 
 </div>
 
@@ -81,7 +76,7 @@
 
 <div align="center">
 
-![Contribution Snake Animation - GitHub contributions as animated snake](https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -104,6 +99,7 @@
 > **"I don't just write code — I build intelligent systems that think, learn, and evolve."**
 
 Focused on:
+
 - 🤖 Developing intelligent agents with AI/ML integration
 - 🧠 Building ML-powered predictive systems
 - 🌐 Crafting immersive full-stack web experiences
@@ -120,12 +116,9 @@ Focused on:
 ---
 
 <div align="center">
-    <img 
-      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" 
-      width="100%"
-    />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
   
-  > ⚡ Crafted with Intelligence, Powered by Passion, Driven by Purpose ⚡
+> ⚡ Crafted with Intelligence, Powered by Passion, Driven by Purpose ⚡
   
-  > © 2025 Bhanu Kumar Dev — Building the Future, One Line of Code at a Time 🚀
+> © 2025 Bhanu Kumar Dev — Building the Future, One Line of Code at a Time 🚀
 </div>
