@@ -82,6 +82,12 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhanukumardev&theme=react)](https://github.com/bhanukumardev)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanukumardev&show_icons=true&theme=react&hide_border=false&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukumardev&layout=compact&theme=react&hide_border=false)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhanukumardev&theme=radical&no-frame=true&row=1&column=7)](https://github.com/bhanukumardev)
+
 [![Bhanu Kumar Dev's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanukumardev&theme=react-dark)](https://github.com/bhanukumardev)
 
 </div>
@@ -101,6 +107,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bhanukumardev.github.io/bhanu-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-kumar-dev-97b820313/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanukumardev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076607474743)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarbhanu818@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhumi_bhanu_dev/)
 
@@ -115,6 +122,7 @@
 > **"I don't just write code — I build intelligent systems that think, learn, and evolve."**
 
 Focused on:
+
 - 🤖 Developing intelligent agents with AI/ML integration
 - 🧠 Building ML-powered predictive systems
 - 🌐 Crafting immersive full-stack web experiences
