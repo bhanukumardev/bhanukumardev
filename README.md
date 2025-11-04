@@ -70,7 +70,9 @@
 
 [![Bhanu Kumar Dev's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanukumardev&theme=react-dark)](https://github.com/bhanukumardev)
 
-![Contribution Snake](https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -78,9 +80,15 @@
 
 <div align="center">
 
-**Portfolio:** [https://bhanukumardev.github.io/bhanu-portfolio/](https://bhanukumardev.github.io/bhanu-portfolio/) | **LinkedIn:** [https://www.linkedin.com/in/bhanu-kumar-dev-97b820313/](https://www.linkedin.com/in/bhanu-kumar-dev-97b820313/) | **GitHub:** [https://github.com/bhanukumardev](https://github.com/bhanukumardev)
+### 💬 Let's connect and collaborate! 🚀
 
-**Email:** [kumarbhanu818@gmail.com](mailto:kumarbhanu818@gmail.com) | **Instagram:** [https://www.instagram.com/bhumi_bhanu_dev/](https://www.instagram.com/bhumi_bhanu_dev/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bhanukumardev.github.io/bhanu-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-kumar-dev-97b820313/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanukumardev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarbhanu818@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhumi_bhanu_dev/)
+
+**📧 Email:** kumarbhanu818@gmail.com
 
 </div>
 
@@ -113,5 +121,4 @@ Focused on:
 > ⚡ Crafted with Intelligence, Powered by Passion, Driven by Purpose ⚡
   
 > © 2025 Bhanu Kumar Dev — Building the Future, One Line of Code at a Time 🚀
-
 </div>
