@@ -29,6 +29,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,6 +38,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### AI/ML & Data Science
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -44,6 +46,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Web Development
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -52,6 +55,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -62,23 +66,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhanukumardev&theme=react)](https://github.com/bhanukumardev)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhanukumardev&theme=react)
-
-</div>
-
-<div align="center">
-
-![Bhanu Kumar Dev's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanukumardev&theme=react-dark)
-
-</div>
-
-<div align="center">
+[![Bhanu Kumar Dev's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanukumardev&theme=react-dark)](https://github.com/bhanukumardev)
 
 ![Contribution Snake](https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
@@ -109,9 +101,9 @@ Focused on:
 
 ## 🎓 Interests & Beyond
 
-- • **Tech:** AI/ML, Full-Stack Development, Cloud Computing, Open Source
-- • **Hobbies:** Horror Movies, Cricket, Continuous Learning
-- • **Community:** Tech Community Leader, Hackathon Participant
+- **Tech:** AI/ML, Full-Stack Development, Cloud Computing, Open Source
+- **Hobbies:** Horror Movies, Cricket, Continuous Learning
+- **Community:** Tech Community Leader, Hackathon Participant
 
 ---
 
@@ -121,4 +113,5 @@ Focused on:
 > ⚡ Crafted with Intelligence, Powered by Passion, Driven by Purpose ⚡
   
 > © 2025 Bhanu Kumar Dev — Building the Future, One Line of Code at a Time 🚀
+
 </div>
