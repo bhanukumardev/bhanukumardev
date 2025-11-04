@@ -1,87 +1,238 @@
-<!--- Profile Banner (Add your own .gif/.svg for max visual punch!) --->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/main/assets/banner.gif" height="220" alt="Bhanu Kumar Dev Banner" />
-</p>
+<div align="center">
 
-# 🧑‍🚀 Bhanu Kumar Dev
-**_Empowering Tech Innovation & AI Solutions_**
+<!-- Agentic Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bhanu%20Kumar%20Dev&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Agent%20%7C%20Full-Stack%20Innovator%20%7C%20Tech%20Pioneer&descAlignY=55&descSize=18" width="100%" />
 
-- 🎓 **3rd Year @ KIIT | CSSE | India**
-- 🧑‍💻 **AI/ML Developer | Full-Stack Engineer | Open Source Advocate**
-- 🏆 **Hackathon Shortlisted & Multiple Project Winner**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Automating+Tomorrow's+Solutions+%E2%9A%A1;Crafting+Agentic+Experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
 
----
+<!-- Info Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=bhanukumardev&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/bhanukumardev?style=for-the-badge&color=00d9ff&labelColor=1a1a2e)](https://github.com/bhanukumardev?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/bhanukumardev?style=for-the-badge&color=00d9ff&labelColor=1a1a2e)](https://github.com/bhanukumardev?tab=repositories)
 
-## 🌟 Featured Achievements
-- 🥈 **Hackathon Finalist & Organizer Roles**
-- 🛠️ **202+ Commits in October 2025 | Active Contributor**  
-- ✨ **Pull Shark & YOLO Achievements, Open Source Highlights**
-- 🚩 **400+ Coding Problems Solved (LeetCode, CodeChef, etc.)**
+</div>
 
 ---
 
-## 🔥 Rapid Project Highlights
+## 👨‍💻 About Me — The Agentic Developer
 
-| 🚀 Project Name | 💡 Key Features |
-| -------------- | -------------- |
-| [bhanu-portfolio](https://bhanukumardev.github.io/bhanu-portfolio/) | 3D Animation, Multilingual CV, Interactive, Recruiter-Ready |
-| [health-symptom-predictor](https://health-symptom-predictor.vercel.app/) | AI+ML FastAPI, React, PostgreSQL, Groq LLM chatbot |
-| [Suraksha Saathi](https://github.com/bhanukumardev/SIH-SurakshaSaathi-DisasterMgmt-Training) | Disaster Monitoring, Real-Time Alerts, Gamification |
-| [fraud-detection-app](https://github.com/bhanukumardev/fraud-detection-app) | Streamlit, ML Fraud Detection, E-Summit Project |
-| [food-delivery-quickbite](https://github.com/bhanukumardev/food-delivery-quickbite) | Modern UI/UX, Fast Delivery Logic, TypeScript |
+```yaml
+name: Bhanu Kumar Dev
+role: AI/ML Engineer & Full-Stack Developer
+education: "3rd Year B.Tech CSSE @ KIIT University, India"
+mission: "Building autonomous systems that think, learn, and evolve"
+philosophy: "Code with purpose. Create with passion. Automate with precision."
+```
 
----
-
-## 🧩 Tech Stack & Power Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge" />
-</p>
-- **Languages**: TypeScript, JavaScript, Python, SQL
-- **Tools**: VS Code, Supabase, Vercel, Render, Railway
+🎯 **Current Focus:**
+- 🤖 Developing intelligent agents with LLM integration
+- 🧠 Building ML-powered health prediction systems  
+- 🌐 Crafting immersive full-stack web experiences
+- 🏆 Competing in hackathons & contributing to open source
 
 ---
 
-## 📊 Impact & Activity
+## 🏆 Achievements & Recognition
 
-- 📰 **Latest:** 25+ commits, new repo created — [food-delivery-quickbite](https://github.com/bhanukumardev/food-delivery-quickbite)  
-- 🗓️ **Active in:** AI, ML, web apps, hackathons, tech communities
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanukumardev&show_icons=true&theme=react)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=bhanukumardev&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukumardev&layout=compact&theme=react)
+| 🎖️ Achievement | 📊 Metric | 🎯 Status |
+|:---:|:---:|:---:|
+| **Hackathon Performance** | Finalist & Organizer | 🥈 Active |
+| **October 2025 Commits** | 202+ contributions | 🔥 Elite |
+| **Problem Solving** | 400+ problems solved | ⚡ Expert |
+| **GitHub Badges** | Pull Shark, YOLO | ✨ Achieved |
+| **Open Source** | Multiple PRs merged | 🌟 Contributor |
 
----
-
-## 🤝 Connect & Collaborate
-
-<p align="center">
-  <a href="https://bhanukumardev.github.io/bhanu-portfolio/">🌐 Portfolio</a> • 
-  <a href="https://linkedin.com/in/bhanu-kumar-dev-97b820313">LinkedIn</a> • 
-  <a href="mailto:kumarbhanu818@gmail.com">Email</a> • 
-  <a href="https://instagram.com/bhumi_bhanu_dev">Instagram</a>
-</p>
+</div>
 
 ---
 
-## 🎬 Fun Fact & Motivation
+## 🚀 Featured Projects Portfolio
 
-> *Horror movies buff, cricket enthusiast, always learning & leading!*
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [3D Portfolio](https://bhanukumardev.github.io/bhanu-portfolio/)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**✨ Features:**
+- 🎭 3D Animations & Interactive UI
+- 🌍 Multilingual CV Support
+- 📱 Fully Responsive Design
+- 💼 Recruiter-Optimized Layout
+
+⭐ **3 Stars** | 🔗 [Live Demo](https://bhanukumardev.github.io/bhanu-portfolio/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 [Health Symptom Predictor](https://health-symptom-predictor.vercel.app/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**✨ Features:**
+- 🤖 AI/ML Disease Prediction
+- 💬 Groq LLM Chatbot Integration
+- 🗄️ PostgreSQL Database
+- ⚡ FastAPI + React Stack
+
+⭐ **4 Stars** | 🔗 [Live Demo](https://health-symptom-predictor.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🆘 [Suraksha Saathi](https://github.com/bhanukumardev/SIH-SurakshaSaathi-DisasterMgmt-Training)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AI](https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**✨ Features:**
+- 🌊 Real-Time Disaster Monitoring
+- 📢 Instant Alert System
+- 🎮 Gamified Training Drills
+- 📊 Advanced Analytics Dashboard
+
+⭐ **3 Stars** | 🍴 **1 Fork**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 [Fraud Detection App](https://github.com/bhanukumardev/fraud-detection-app)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**✨ Features:**
+- 🧠 ML Anomaly Detection
+- 💳 Financial Fraud Analysis
+- 📈 Real-Time Visualization
+- 🏅 E-Summit 2025 Winner
+
+⭐ **4 Stars** | 🍴 **2 Forks**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<!--- Contribution Snake Animation --->
+## 🛠️ Tech Toolbox — Agentic Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### AI/ML & Data
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Databases & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+### Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics — Performance Metrics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhanukumardev&show_icons=true&theme=react&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukumardev&layout=compact&theme=react&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&text_color=ffffff" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bhanukumardev&theme=react&hide_border=true&background=1a1a2e&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="95%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanukumardev&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=00d9ff&line=00d9ff&point=ffffff" width="95%" />
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bhanukumardev.github.io/bhanu-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanu-kumar-dev-97b820313)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarbhanu818@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhumi_bhanu_dev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076607474743)
+
+</div>
+
+---
+
+## 💭 Agentic Quote
+
+<div align="center">
+
+```diff
+@@ The Future of Software @@
+
+- "Software that waits for commands"
++ "Intelligent agents that anticipate, reason, and act autonomously"
+
+! "I don't just write code — I architect thinking systems that evolve."
+```
+
+**🎯 Mission:** *Transform problems into autonomous solutions. Build systems that don't just execute—they understand.*
+
+</div>
+
+---
+
+## 🎬 Beyond the Code
+
+<div align="center">
+
+🎥 **Horror Movies Enthusiast** | 🏏 **Cricket Fanatic** | 📚 **Perpetual Learner** | 🎤 **Tech Community Leader**
+
+*"Leading with innovation, learning with curiosity, coding with purpose."*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
 ![Snake animation](https://raw.githubusercontent.com/bhanukumardev/bhanukumardev/output/snake.svg)
 
 ---
 
-<!-- Footer: Personal Universe -->
-<p align="center"><b>
-🌠 Crafted with ⚡, ☕, and 💡 — Bhanu’s Tech Universe
-</b></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
+**⚡ Crafted with Intelligence, Powered by Passion, Driven by Purpose ⚡**
+
+*© 2025 Bhanu Kumar Dev — Building the Future, One Agent at a Time* 🚀
+
+</div>
