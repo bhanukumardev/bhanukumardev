@@ -35,7 +35,7 @@
 
 **AI-powered health prediction app** with React, FastAPI, PostgreSQL, and ML disease prediction. Features real-time symptom analysis, medicine suggestions, and a Groq LLM chatbot. Multilingual, mobile-friendly, and cloud-deployed.
 
-[Live Demo](https://health-symptom-predictor-vbrf.vercel.app/)
+[Live Demo](https://health-symptom-predictor.vercel.app/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/bhanukumardev/health-symptom-predictor)
 
