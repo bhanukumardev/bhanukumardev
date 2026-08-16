@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 **Name:** Bhanu Kumar Dev  
-**Education:** 3rd Year B.Tech in Computer Science & Systems Engineering (CSSE) @ KIIT University, India  
+**Education:** 4th Year B.Tech in Computer Science & Systems Engineering (CSSE) @ KIIT University, India  
 **Focus:** AI/ML Development, Full-Stack Engineering, Intelligent Systems
 
 ---
